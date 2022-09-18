@@ -1,4 +1,4 @@
-Hi 👋 My name is decode202
+Hi My name is decode202
 ==========================
 
 I am interested in learning new coding languages.
